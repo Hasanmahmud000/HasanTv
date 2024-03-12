@@ -119,14 +119,7 @@ http://xtv.ooo:8080/564587696/474585694/245901
 https://test.bongodrive.pw/bdix.m3u8?ac=1102
 http://opplex.tv:8080/live/12001200/12001200/245901.ts
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",T Sports
-http://xtv.ooo:8080/8777877/8777777/167590
-http://103.142.80.22:8080/Channel-2/index.m3u8
-http://103.142.80.22:8080/t-sports/video.m3u8
-https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=27&e=.m3u8|User-Agent=test69
-http://xtv.ooo:8080/shahz18/18usman/167590
-https://test.bongodrive.pw/bdix.m3u8?ac=1101
-http://opplex.tv:8080/live/12001200/12001200/167590.ts
-https://bongohub.pw/api/hoichoi.m3u8?id=1101
+https://t.ly/Hasantv/w81uC.m3u8
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png", Nagorik TV
 http://startv365.com/9794783213/6955630461/400200127
@@ -151,7 +144,7 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/yldyrvA.jpg",Amar Bangla
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/chunks.m3u8
-#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/kRkRSvD.png",Global Tv
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://iimgur.com/kRkRSvD.png",Global Tv
 http://cdn01.palki.tv/live/GlobalTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/M6DLqSg/News-241664826177.jpg",News 24
 http://cdn01.palki.tv/live/News24-M/index.m3u8
