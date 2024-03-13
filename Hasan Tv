@@ -90,7 +90,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png",My Tv
 https://bongohub.pw/bioscope.php?cc=my-tv
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png",Mohona Tv
-http://103.151.60.214:7444/1123/video.m3u8
+http://195.26.87.217/live.ts?channelId=103&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/RFWN6GL6/BIJOY-TV-Logo-BD.png",Bijoy Tv
 http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/chunks.m3u8
@@ -101,7 +101,7 @@ https://ythls-v2.onrender.com/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/nQLFk5P/images-11.jpg",Maasranga Tv
 http://103.151.60.214:7444/1122/video.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/d1zRBNr.png",Channel 9
-http://cdn01.palki.tv/live/Channel9-M/tracks-v2a1/mono.m3u8
+http://195.26.87.217/live.ts?channelId=88&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/vdKhyBM/images-25.jpg",Channel 24
 http://cdn01.palki.tv/live/Channel24-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/HBF4nQv/ekattortv.png",Ekattor Tv
