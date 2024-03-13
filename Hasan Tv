@@ -973,6 +973,8 @@ http://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/6624.m3u8
 https://edge2.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/lDZ4rZA.png",Eurosport 
 http://mag.trexlive.me/Michael88/Michael88/156027
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/d1j4WXwB/images-6-4.jpg",Jio Cricket
+http://xtv.ooo:8080/live/415663775/826262627/206297.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 1
 http://xtv.ooo:8080/live/T4S00515/820172/167575.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 1 Hindi
