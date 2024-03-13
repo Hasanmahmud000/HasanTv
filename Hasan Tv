@@ -64,7 +64,7 @@ https://nayeem-parvez.pw/api/bioscope.m3u8?id=btv-hd&e=.m3u8|User-Agent=nayeem11
 http://cdn01.palki.tv/live/BTVWorld-M/index.m3u8
 https://nayeem-parvez.pw/api/bioscope.m3u8?id=btv-world&e=.m3u8|User-Agent=nayeem110
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/r2YjB0s.png",BTV Chottogram 
-http://cdn01.palki.tv/live/BTVChattogram-M/tracks-v1a1/mono.m3u8
+http://xtv.ooo:8080/live/415663775/826262627/245990.ts
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/8nRyyAu.png",Sangsad Tv
 http://cdn01.palki.tv/live/SangsadTV-M/index.fmp4.m3u8
 https://nayeem-parvez.pw/api/bioscope.m3u8?id=sangsad-tv&e=.m3u8|User-Agent=nayeem110
