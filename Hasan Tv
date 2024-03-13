@@ -119,15 +119,15 @@ https://ythls-v2.onrender.com/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 http://103.151.60.214:7444/1122/video.m3u8
 http://xtv.ooo:8080/live/415663775/826262627/245904.ts
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/d1zRBNr.png",Channel 9
-http://195.26.87.217/live.ts?channelId=88&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://xtv.ooo:8080/live/415663775/826262627/245902.ts
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/vdKhyBM/images-25.jpg",Channel 24
-http://cdn01.palki.tv/live/Channel24-M/tracks-v1a1/mono.m3u8
+https://bongodrive.pw/bioscope.m3u8?id=channel-24
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/HBF4nQv/ekattortv.png",Ekattor Tv
-http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
+https://bongodrive.pw/bioscope.m3u8?id=ekattur-tv
 #EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png" group-title="BANGLADESHI",Asian TV
-http://cdn01.palki.tv/live/AsianTV-M/tracks-v1a1/mono.m3u8
+https://bongodrive.pw/bioscope.m3u8?id=asian-tv-hd
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/ncJhpngQ/Nexus-Television-Logo.png",Nexus Tv
-http://cdn01.palki.tv/live/NexusTV-M/index.m3u8
+https://bongodrive.pw/bioscope.m3u8?id=nexus-television-hd
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/VLmm2D0q/images-5-20.jpg",Gaan Bangla
 http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png",Satv
