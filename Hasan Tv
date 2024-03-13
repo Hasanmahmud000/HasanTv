@@ -405,7 +405,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/xTj2gSp8/image.jpg", & Tv HD
 http://195.26.87.217/live.ts?channelId=140&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/mkp3kxFJ/pictures.png",& Picture
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
+http://xtv.ooo:8080/live/415663775/826262627/221260.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/mkp3kxFJ/pictures.png",& Picture HD
 http://195.26.87.217/live.ts?channelId=139&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/9M6BGpMK/flix.jpg",& Flix HD
