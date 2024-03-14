@@ -572,6 +572,16 @@ http://xtv.ooo:8080/live/T4S00515/820172/340873.ts
 #EXTINF:-1 group-title="TV SHOW" tvg-logo="https://i.postimg.cc/YCM6HhVV/Crime-Patrol-Satark.jpg",Crime Patrol
 http://xtv.ooo:8080/live/T4S00515/820172/340875.ts
 
+
+#EXTINF:-1 group-title="HASANVAI" tvg-logo="https://i.imgur.com/rTH9cWg.png",Movies Server 1
+http://mixbix.xyz:8080/live/mLW2nMkArKNs/zMgjNRWVAzC6/239121.ts
+#EXTINF:-1 group-title="HASANVAI" tvg-logo="https://i.imgur.com/rTH9cWg.png",Movies Server 2
+http://mixbix.xyz:8080/live/mLW2nMkArKNs/zMgjNRWVAzC6/239122.ts
+#EXTINF:-1 group-title="HASANVAI" tvg-logo="https://i.imgur.com/rTH9cWg.png",Movies Server 3
+http://mixbix.xyz:8080/live/mLW2nMkArKNs/zMgjNRWVAzC6/239123.ts
+#EXTINF:-1 group-title="HASANVAI" tvg-logo="https://i.imgur.com/rTH9cWg.png",Movies Server 4
+http://mixbix.xyz:8080/live/mLW2nMkArKNs/zMgjNRWVAzC6/239125.ts
+
 #EXTINF:-1 group-title="HASANVAI" tvg-logo="https://i.imgur.com/rTH9cWg.png",Movies Server 1
 http://mag.premiumplus.tv/play/live.php?mac=00:1A:79:61:4F:5D&stream=1024830&extension=ts
 #EXTINF:-1 group-title="HASANVAI" tvg-logo="https://i.imgur.com/rTH9cWg.png",Movies Server 2
