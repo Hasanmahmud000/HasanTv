@@ -979,10 +979,12 @@ http://xtv.ooo:8080/live/415663775/826262627/206297.ts
 http://xtv.ooo:8080/live/415663775/826262627/109987.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 1 Hindi
 http://xtv.ooo:8080/live/415663775/826262627/109986.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 1 Hindi
+http://xtv.ooo:8080/live/415663775/826262627/167574.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/B6u40R7.jpg",Star Sports 2
 http://xtv.ooo:8080/live/T4S00515/820172/167576.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 3
-http://xtv.ooo:8080/live/T4S00515/820172/167577.ts
+http://xtv.ooo:8080/live/415663775/826262627/167577.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/OcBylY2.jpg",Star Sports Select 1
 http://xtv.ooo:8080/live/415663775/826262627/167578.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/4mi15gR.jpg",Star Sports Select 2
