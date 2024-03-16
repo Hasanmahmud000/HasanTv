@@ -389,7 +389,7 @@ http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155996&exten
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/ktgkqwj.png",Star Gold Select HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/x1V0n6KH/Star-Gold-Romance.png",Star Gold Romance
-http://xtv.ooo:8080/live/415663775/826262627/66186.ts
+http://mixbix.xyz:8080/live/mLW2nMkArKNs/zMgjNRWVAzC6/236827.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/SyDPLgu.png",Star Ustav
 http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=156163&extension=ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/26KXM7GJ/images-6-3.jpg",Star Ustav Movies
@@ -397,7 +397,7 @@ http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=1112131&exte
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/OujQ9gL.png",Zee Tv
  http://103.120.172.74:1140/
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/OujQ9gL.png",Zee Tv HD
- https://bongodrive.pw/bioscope.m3u8?id=zee-tv-hd
+ https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=zee-tv-hd
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/YS0GWpSY/zee-tv-marathi-hd.jpg",Zee Marathi HD
 http://103.120.172.74:1040/
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/xTj2gSp8/image.jpg", & Tv
@@ -421,9 +421,9 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/qanBTkv.png",Sony Sab 
 https://test.bongodrive.pw/test.php?ac=sony-sab-sd
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/qanBTkv.png",Sony Sab HD
-https://test.bongodrive.pw/bdix.m3u8?ac=1701
+https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=sony-sab-tv-live
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/ADXlju2.png",Sony WAH
-https://api.bongohub.pw/api/bio.php?ac=sony-wah-live
+https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=sony-wah-live
 #EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX
 https://test.bongodrive.pw/test.php?ac=sony-max-sd
 #EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX HD 
@@ -441,7 +441,7 @@ https://test.bongodrive.pw/test.php?ac=sony-hd-live
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/FOgubQl.jpg",Sony Pal
 http://xtv.ooo:8080/6199216/619002/104192
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/jqg966Lm/E2mqi9q.png",Colors
-https://bongodrive.pw/bioscope.m3u8?id=colors-asia
+https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=colors-asia
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/jqg966Lm/E2mqi9q.png",Colors Hd
 http://xtv.ooo:8080/live/T4S00515/820172/221254.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/h86708M.png",Colors Rishtey
