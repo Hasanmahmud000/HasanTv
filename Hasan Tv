@@ -883,11 +883,11 @@ http://xtv.ooo:8080/live/T4S00515/820172/238480.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/LiExax0.png",Football 2
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/kaYFJhu.png",FS 1
-http://opplex.tv:8080/live/12001200/12001200/347289.ts
+http://xtv.ooo:8080/live/415663775/826262627/347289.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/kaYFJhu.png",FS 2
 http://xtv.ooo:8080/live/T4S00515/820172/347290.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/gMN2cTq.jpg",Super Sports Blitz 
-http://opplex.tv:8080/live/12001200/12001200/238487.ts
+http://xtv.ooo:8080/live/415663775/826262627/353948.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/UPA08vS.jpg",Supersports Cricket 
 http://xtv.ooo:8080/live/T4S00515/820172/238475.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Hb58Ccx.jpg",True Premier 1 
@@ -930,7 +930,7 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrcZC751CM8FzhluTURvOEVEHRQK2pm4t13w&usqp=CAU" group-title="SPORTS", ESPN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://futebolplayhd.com/
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/playlist.m3u8
+http://xtv.ooo:8080/live/415663775/826262627/238492.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/9fd5Oq8.png",ESPN 3
 http://45.179.140.242:8000/play/a0je
 
