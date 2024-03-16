@@ -976,11 +976,11 @@ http://xtv.ooo:8080/6199216/619002/353018
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q25OggC.jpg",beIN Sports 6
 http://xtv.ooo:8080/6199216/619002/353019
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/NAsylzo.jpg",beIN Sports France 1
-http://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/6620.m3u8
+http://xtv.ooo:8080/live/415663775/826262627/353032.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/9fd5Oq8.png",beIN Sports France 2
-http://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/6622.m3u8
+http://xtv.ooo:8080/live/415663775/826262627/353033.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/I1VyWqt.jpg",beIN Sports France 3
-http://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/6624.m3u8
+http://xtv.ooo:8080/live/415663775/826262627/222558.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/NAsylzo.jpg",beIN Sports True 1
 https://edge2.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/lDZ4rZA.png",Eurosport 
@@ -991,7 +991,7 @@ http://xtv.ooo:8080/live/415663775/826262627/206297.ts
 http://xtv.ooo:8080/live/415663775/826262627/109987.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 1 Hindi
 http://xtv.ooo:8080/live/415663775/826262627/109986.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 1 Hindi
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 1 Tamil
 http://xtv.ooo:8080/live/415663775/826262627/167574.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/B6u40R7.jpg",Star Sports 2
 http://xtv.ooo:8080/live/T4S00515/820172/167576.ts
