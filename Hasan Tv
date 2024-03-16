@@ -461,7 +461,7 @@ http://xtv.ooo:8080/live/T4S00515/820172/206307.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/Up3mWkD.jpg",ABZY Movies 
 http://xtv.ooo:8080/live/T4S00515/820172/104200.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/q7rP4LNF/Zee-Anmol.png",Zee Anmol
-http://xtv.ooo:8080/live/415663775/826262627/66357.ts
+http://mag.trexlive.me/Michael88/Michael88/156165
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/q7rP4LNF/Zee-Anmol.png",Zee Anmol Cinema
 http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=156146&extension=ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/wTgPj599/image.jpg",Zee News
@@ -473,7 +473,7 @@ http://sansat.net:25461/live/02048081503032/02048081503032/95882.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/xC1mgf80/Zee-Bollywood1.jpg",Zee Bollywood
 http://xtv.ooo:8080/live/415663775/826262627/207200.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/v83qjZB8/zee-action.png",Zee Action
-http://xtv.ooo:8080/live/T4S00515/820172/66191.ts
+http://mag.trexlive.me/Michael88/Michael88/156139
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/dd8VLUN.jpg",Bollywood Classic
 http://xtv.ooo:8080/live/415663775/826262627/353086.ts
@@ -482,9 +482,9 @@ http://xtv.ooo:8080/live/415663775/826262627/353086.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/Qd4gPY9g/zee-talkies-hd-hover.jpg",Zee Talkies HD
 http://sansat.net:25461/live/02048081503032/02048081503032/95850.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/JnPRcXdh/Zee-Tamil.png",Zee Tamil
-http://195.26.87.217/live.ts?channelId=43423&uid=7435&deviceMac=00:1A:79:51:4B:3A
+https://testing.denver1769.in/oplx.php?id=244523
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/nznv9KBw/800px-Zee-Kannada.png",Zee Kannada
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeekannada/default/index.m3u8
+https://testing.denver1769.in/oplx.php?id=244702
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/X7459Y8W/1128-bollywood-clasic.png",Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/zf6bpc4f/bollywood-hd.jpg",Bollywood HD
@@ -528,7 +528,7 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/1M0jHid.png",Action Hollywood Movie 
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/ahKkY3Z.png",B4U Movie
-http://xtv.ooo:8080/564587696/474585694/104201
+https://testing.denver1769.in/oplx.php?id=104201
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/XG6VhVF.jpg",B4U Kadak
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/J1abUHL.jpg",BFLIX Movie
@@ -552,7 +552,7 @@ https://epiconvh.s.llnwi.net/ishaara/master_480.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/7P3dsHgc/Nazara-TV-logo.png",Nazara tv
 https://epiconvh.s.llnwi.net/nazara/master.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/hjvLZCLy/images-1-4.png",Movies Active
-http://xtv.ooo:8080/live/T4S00515/820172/206276.ts
+https://testing.denver1769.in/oplx.php?id=206276
 #EXTINF:-1 group-title="BHOJPURI" tvg-logo="https://i.imgur.com/D7gb7ri.jpg",Bhojpuri Cinema 
 http://xtv.ooo:8080/live/T4S00515/820172/269091.ts
 #EXTINF:-1 group-title="BHOJPURI" tvg-logo="https://i.imgur.com/DgjnVcY.png",Dhamaal
