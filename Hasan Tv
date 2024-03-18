@@ -59,15 +59,15 @@ https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/mg15t8NJ/images-1-4.png",BTV National 
 https://bongohub.pw/bioscope.php?cc=btv-hd
 http://testing.denver1769.in/51.php?id=8399
-https://nayeem-parvez.pw/api/bioscope.m3u8?id=btv-hd&e=.m3u8|User-Agent=nayeem110
+https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=btv-hd
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/eJS0vGk.jpg",BTV World
 http://cdn01.palki.tv/live/BTVWorld-M/index.m3u8
-https://nayeem-parvez.pw/api/bioscope.m3u8?id=btv-world&e=.m3u8|User-Agent=nayeem110
+https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=btv-world
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/r2YjB0s.png",BTV Chottogram 
-http://cdn01.palki.tv/live/BTVChattogram-M/index.m3u8
+http://cdn01.palki.tv/live/BTVChattogram-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/8nRyyAu.png",Sangsad Tv
 http://cdn01.palki.tv/live/SangsadTV-M/index.fmp4.m3u8
-https://nayeem-parvez.pw/api/bioscope.m3u8?id=sangsad-tv&e=.m3u8|User-Agent=nayeem110
+https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=sangsad-tv
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png",Bangla Vision 
 https://t.ly/Hasan/WlLeE.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png",Boishakhi Tv
