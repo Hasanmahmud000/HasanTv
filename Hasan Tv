@@ -297,7 +297,7 @@ https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=sony-aath-live
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg",Jalsha Movies HD
 http://176.119.29.52/live.ts?channelId=117&deviceMac=00:1A:79:0A:CA:4F
-https://himeop-pro.000webhostapp.com/cdn.ts?channelId=117
+http://xtv.ooo:8080/live/415663775/826262627/245900.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/J4jcz3x4/image.jpg",Zee Bangla Cinema
 http://pgplex.net:8080/ZeeBanglaCinema/index.m3u8
 https://himeop-pro.000webhostapp.com/cdn.ts?channelId=119
