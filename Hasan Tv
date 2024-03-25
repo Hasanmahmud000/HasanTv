@@ -737,8 +737,6 @@ https://b.link/BDStreamHub/IPL2024.M3u8
 http://114.130.96.165:8080/1101/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",𝐈𝐏𝐋 𝟐𝟎𝟐𝟒
 http://xtv.ooo:8080/live/415663775/826262627/167575.m3u8
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",𝐈𝐏𝐋 𝟐𝟎𝟐𝟒
-https://myblmprod-cdn.toffeelive.com/live/match-1/index.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1711418481:KeyName=prod_live_mybl:Signature=Tes6iCl6avo6cKZ8NsOyF2fl-CWvZ02OE5-54aLQDNLS3IRS7KtDi6zGjw8XfzOzwP5tYkaCOAUG5VLLInjMCQ
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/zDsWy1cD/images-6-9.jpg",𝐁𝐫𝐚𝐳𝐢𝐥 🆚 𝐄𝐧𝐠𝐥𝐚𝐧𝐝
 https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
