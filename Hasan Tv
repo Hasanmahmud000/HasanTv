@@ -134,15 +134,9 @@ http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png",Satv
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png",Gtv
-http://103.142.80.22:8080/GAZI/index.m3u8
-https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=19&e=.m3u8|User-Agent=test69
-http://xtv.ooo:8080/564587696/474585694/245901
-https://test.bongodrive.pw/bdix.m3u8?ac=1102
-https://bdix.friendshiplive2023.xyz/bdixOTT/aynaott/stream.m3u8?id=19&e=.m3u8
-https://bongohub.pw/api/bdsajib/hoicoi.m3u8?ac=1102
+https://s.id/BDStreamHubtsprts
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",T Sports
-https://bdix.friendshiplive2023.xyz/bdixOTT/aynaott/stream.m3u8?id=27&e=.m3u8
-https://bongohub.pw/api/bdsajib/hoicoi.m3u8?ac=1101
+http://114.130.96.165:8080/1101/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png", Nagorik TV
 http://xtv.ooo:8080/live/415663775/826262627/245939.ts
@@ -738,7 +732,7 @@ http://195.26.87.217/live.ts?channelId=48010&uid=7435&deviceMac=00:1A:79:51:4B:3
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",𝐈𝐏𝐋 𝟐𝟎𝟐𝟒
 https://sports.lvyclv.com/live/m33070447/playlist.m3u8
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",𝐈𝐏𝐋 𝟐𝟎𝟐𝟒
-https://bongohub.pw/api/bdsajib/hoicoi.m3u8?ac=1101
+http://114.130.96.165:8080/1101/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",𝐈𝐏𝐋 𝟐𝟎𝟐𝟒
 http://xtv.ooo:8080/live/415663775/826262627/167575.m3u8
 
