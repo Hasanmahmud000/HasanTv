@@ -737,9 +737,8 @@ http://114.130.96.165:8080/1101/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",𝐈𝐏𝐋 𝟐𝟎𝟐𝟒
 http://xtv.ooo:8080/live/415663775/826262627/167575.m3u8
 
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/zDsWy1cD/images-6-9.jpg",𝐁𝐫𝐚𝐳𝐢𝐥 🆚 𝐄𝐧𝐠𝐥𝐚𝐧𝐝
-https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
-https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=sony-ten-2-live
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/zDsWy1cD/images-6-9.jpg",𝐀𝐫𝐠𝐞𝐧𝐭𝐢𝐧𝐚 🆚 𝐂𝐨𝐬𝐭𝐚 𝐑𝐢𝐜𝐚
+http://xtv.ooo:8080/live/415663775/826262627/346866.m3u8
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/Wpyfn90b/images-6-10.jpg",Germany vs France 
 https://1rdk.short.gy/Sony-LIV/IF-3/Himel-Op.m3u8
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.imgur.com/j69yOgM.jpg",U19 Live Server - PAK-U19 vs AU-U19
