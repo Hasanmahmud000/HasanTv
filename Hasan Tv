@@ -134,9 +134,9 @@ http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png",Satv
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png",Gtv
-https://s.id/BDStreamHubtsprts
+http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",T Sports
-http://114.130.96.165:8080/1101/tracks-v1a1/index.m3u8
+https://pos.bongohub.pw/mac.m3u8?id=6919
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png", Nagorik TV
 http://xtv.ooo:8080/live/415663775/826262627/245939.ts
@@ -146,7 +146,7 @@ http://xtv.ooo:8080/live/415663775/826262627/245939.ts
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg",Dipto Tv
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/CbtWjcm/ekhontv.png",Ekhon Tv
-http://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
+https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=ekhon-tv
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/hR57wkL/Jamuna-Tv1664825738.jpg",Jamuna Tv
 https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=jamuna-tv
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/vyo1cXY.jpg",Channel 23
