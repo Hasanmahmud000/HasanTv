@@ -277,8 +277,7 @@ http://tv.cloudcdn.me/live.ts?channelId=92&uid=9592&deviceMac=00:1A:79:82:85:F0
 #EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20200720045951" group-title="KOLKATA", COLORS BANGLA CINEMA
 https://test.bongodrive.pw/test.php?ac=colors-bangla-cinema
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/L4nx2ZGn/image.jpg",Sun Bangla 
-http://xtv.ooo:8080/6199216/619002/245906
-http://148.113.5.31:8106/play/a00z/index.m3u8
+http://xtv.ooo:8080/adnankb2006/86057314/245906
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/iqLyqRz.jpg",Sun Bangla Cinema
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/N0sxVy1G/Sony-Aath-new.png",Sony Aath
@@ -294,7 +293,7 @@ http://176.119.29.52/live.ts?channelId=117&deviceMac=00:1A:79:0A:CA:4F
 http://xtv.ooo:8080/live/415663775/826262627/245900.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/J4jcz3x4/image.jpg",Zee Bangla Cinema
 http://pgplex.net:8080/ZeeBanglaCinema/index.m3u8
-https://himeop-pro.000webhostapp.com/cdn.ts?channelId=119
+http://xtv.ooo:8080/adnankb2006/86057314/245897
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/bvV1BmyL/Enterr10-Bangla.jpg",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/d1vGpCS.jpg",Tara Bangla Cinema 
