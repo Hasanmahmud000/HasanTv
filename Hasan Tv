@@ -267,7 +267,7 @@ http://xtv.ooo:8080/live/415663775/826262627/245893.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/fLbSDDPN/Star-Jalsha-logo-2023.png",Star Jolsha
 https://tv5.hoichoi24.com/1406/tracks-v1a1/mono.m3u8?
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/9F9RWxLr/images-5-26.jpg"group-title="KOLKATA",Star Jalsha HD
-http://tgaadi-web.tech/api/dhoom.php?tv=11433
+http://tv.mototvlive.net:8880/live/salman/salman/1562.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/ItU5C2m.png",Colors Bangla 
 https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=colors-bangla
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/0NVrthyH/Colors-Bangla-HD-prelaunch-2016.png",Colors Bangla HD
