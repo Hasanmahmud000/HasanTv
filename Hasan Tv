@@ -137,6 +137,7 @@ https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",T Sports
 https://tv5.hoichoi24.com/1101/tracks-v1a1/mono.m3u8
+https://bdixtv247.techpriyo.com/api/te.php
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png", Nagorik TV
 http://tv5.hoichoi24.com/1113/tracks-v1a1/index.m3u8
@@ -930,6 +931,7 @@ https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/L5t168Z7/images-5-13.jpg",Bangladesh vs Srilanka 2nd test
 https://tv5.hoichoi24.com/1101/tracks-v1a1/mono.m3u8?
+https://bdixtv247.techpriyo.com/api/te.php
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",𝐈𝐏𝐋 𝟐𝟎𝟐𝟒
 http://starshare.live:8080/live/Michelle123/Michelle123/304286.ts
