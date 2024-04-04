@@ -82,6 +82,7 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/QtFbyM4P/images-5-19.jpg",Desh Tv
 http://tv5.hoichoi24.com/1121/tracks-v1a1/index.m3u8
+http://tv.mototvlive.net:8880/salman/salman/16487
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png",R tv
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/live-orgin/rtv-sg.stream/chunks.m3u8
