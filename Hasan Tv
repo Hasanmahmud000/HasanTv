@@ -145,12 +145,15 @@ https://mtlivestream.site/asian/ytlive/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/ncJhpngQ/Nexus-Television-Logo.png",Nexus Tv
 https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
+http://cdn01.palki.tv/live/NexusTV-M/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/VLmm2D0q/images-5-20.jpg",Gaan Bangla
 http://tv5.hoichoi24.com/1110/tracks-v1a1/index.m3u8
+http://tv.mototvlive.net:8880/salman/salman/16428
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png",Satv
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
+http://cdn01.palki.tv/live/SATV-M/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png",Gtv
 https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
