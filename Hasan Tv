@@ -35,9 +35,11 @@ https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/mg15t8NJ/images-1-4.png",BTV National 
 http://tv5.hoichoi24.com/1114/tracks-v1a1/index.m3u8
+http://xtv.ooo:8080/live/415663775/826262627/245930.ts
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/eJS0vGk.jpg",BTV World
 http://tv5.hoichoi24.com/1127/tracks-v1a1/index.m3u8
+http://xtv.ooo:8080/live/415663775/826262627/245922.ts
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/r2YjB0s.png",BTV Chottogram 
 http://cdn01.palki.tv/live/BTVChattogram-M/tracks-v1a1/mono.m3u8
