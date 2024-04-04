@@ -106,7 +106,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png",My Tv
 http://tv5.hoichoi24.com/1132/tracks-v1a1/index.m3u8
-http://xtv.ooo:8080/live/415663775/826262627/245964.ts
+http://tv.mototvlive.net:8880/salman/salman/1308
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png",Mohona Tv
 http://tv5.hoichoi24.com/1123/tracks-v1a1/index.m3u8
@@ -128,6 +128,7 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/d1zRBNr.png",Channel 9
 http://tv5.hoichoi24.com/1124/tracks-v1a1/index.m3u8
+http://cdn01.palki.tv/live/Channel9-M/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/vdKhyBM/images-25.jpg",Channel 24
 http://tv5.hoichoi24.com/1119/tracks-v1a1/index.m3u8
