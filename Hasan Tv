@@ -356,22 +356,22 @@ http://103.107.79.87:8080/CH8110HD01/video.m3u8?
 http://103.107.79.87:8080/CH8110HD01/video.m3u8
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/ItU5C2m.png",Colors Bangla 
-http://mag.trexlive.me/Michael88/Michael88/225740
+http://103.107.79.87:8080/CH8110HD05/video.m3u8
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/0NVrthyH/Colors-Bangla-HD-prelaunch-2016.png",Colors Bangla HD
-https://tv5.hoichoi24.com/1411/tracks-v1a1/mono.m3u8
+http://103.107.79.87:8080/CH8110HD05/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20200720045951" group-title="KOLKATA", COLORS BANGLA CINEMA
 https://tv5.hoichoi24.com/1404/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/L4nx2ZGn/image.jpg",Sun Bangla 
-http://xtv.ooo:8080/adnankb2006/86057314/245906
+http://103.107.79.87:8080/CH8110HD04/video.m3u8
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/iqLyqRz.jpg",Sun Bangla Cinema
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/N0sxVy1G/Sony-Aath-new.png",Sony Aath
-http://tv.cloudcdn.me/live.ts?channelId=44150&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+http://103.107.79.87:8080/CH8110HD06/video.m3u8
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/4dMbmBjn/images-5-27.jpg",Jalsha Movies 
 
