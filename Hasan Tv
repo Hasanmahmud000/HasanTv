@@ -11,19 +11,19 @@ http://tv.cloudcdn.me/live/00:1A:79:17:C0:17/D9CA0D47A1879/237.m3u8
 http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 
 #EXTINF:-1 tvg-id="" tvg-name="IQRA" tvg-logo="https://iqra.tv/wp-content/uploads/2023/10/IQRA-LOGO-PNG-connecting-you-to-the-source.jpg" group-title="ISLAMIC", ION TV
-
+https://livess.ncare.live/live-orgin/iontvuk.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.imgur.com/9gffd60.png",Makkah Tv
-
+https://livess.ncare.live/live-orgin/makkahtv.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co/5vFbq01/images-28.jpg",IQRA Bangla
-
+https://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.postimg.cc/ncC7J5n8/images-5-18.jpg",Deen Tv Uk
-
+https://livess.ncare.live/live-orgin/deentv.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.imgur.com/GQhXlx8.jpg",Madina Tv
-
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.imgur.com/M0K68o5.png",Islam Tv
 
