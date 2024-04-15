@@ -237,10 +237,11 @@ https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/fy0tF53n/images-1-6.png",NRB HD Tv
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/chunks.m3u8
+https://livess.ncare.live/live-orgin/nrb-eu.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/j5BQLDPT/images-5-23.jpg",Cumilla Tv
 http://103.149.142.133/0.m3u8
+
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/CyNx0Zh.png",Jatv
 https://jatv.sonarbanglatv.com/jatv/jatv/index.m3u8
 
