@@ -966,9 +966,11 @@ https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",𝐈𝐏𝐋 𝟐𝟎𝟐𝟒
 http://xtv.ooo:8080/T4S00515/820172/167575
 
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/jj35Bt5J/images-6-9.jpg",Dortmund vs Atletico
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/D0zXGwZv/download-20.jpg",Dortmund vs Atletico
 http://103.107.79.87:8080/CH8106SD03/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/gJwJWQXt/images-6-8.jpg",𝐀𝐫𝐠𝐞𝐧𝐭𝐢𝐧𝐚 🆚 𝐂𝐨𝐬𝐭𝐚 𝐑𝐢𝐜𝐚
+
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtlkQD-YvPJCHLw4hF6bhH_JDO42SeuQtI51GqP57eQ&s",Barcelona vs PSG
+https://portal.code-crafters.app/app/play.m3u8?id=6058
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.imgur.com/j69yOgM.jpg",U19 Live Server - PAK-U19 vs AU-U19
 http://t-tvpremium.xyz:8880/sajjad30/83837473742/14542
