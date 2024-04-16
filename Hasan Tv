@@ -356,7 +356,7 @@ http://103.107.79.87:8080/CH8110HD01/video.m3u8?
 http://103.107.79.87:8080/CH8110HD01/video.m3u8
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/ItU5C2m.png",Colors Bangla 
-http://103.107.79.87:8080/CH8110HD05/video.m3u8
+http://103.107.79.87:8080/1404/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/0NVrthyH/Colors-Bangla-HD-prelaunch-2016.png",Colors Bangla HD
 http://103.107.79.87:8080/CH8110HD05/video.m3u8
