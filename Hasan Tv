@@ -533,10 +533,10 @@ http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=1112131&exte
 http://103.120.172.74:1040/
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/xTj2gSp8/image.jpg", & Tv
-https://imapp.iify.cloud/playlist.m3u8?chunks=47d1fbea95819b3dc67008a9d227f492effacf4c686e14837dfd6a23ab369bd5bd1963d6bc0ccb0ddea74682db9f913593c571c07a2e4b0991ac1978e2dc8e99b2d87ec1110f01bbd5803843539dbed9cd6ca0e1475c8fa4c734d3ce3274690facacce8260662a8c9616f0889707163c&vtoken=
+http://xtv.ooo:8080/live/T4S00515/820172/66173.m3u8
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/xTj2gSp8/image.jpg", & Tv HD
-http://195.26.87.217/live.ts?channelId=140&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://xtv.ooo:8080/live/T4S00515/820172/66173.m3u8
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/mkp3kxFJ/pictures.png",& Picture
 http://xtv.ooo:8080/live/415663775/826262627/221260.ts
@@ -561,7 +561,7 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 http://195.26.87.217/live.ts?channelId=192&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/qanBTkv.png",Sony Sab HD
-http://tv.mototvlive.net:8880/live/salman/salman/1385.m3u8
+http://opplex.tv:8080/live/T4S00515/820172/221256.m3u8
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/ADXlju2.png",Sony WAH
 http://tv5.hoichoi24.com/1306/tracks-v1a1/index.m3u8
