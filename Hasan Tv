@@ -611,10 +611,10 @@ http://xtv.ooo:8080/live/415663775/826262627/112983.ts
 http://195.26.87.217/live.ts?channelId=62413&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/rsjnFPmy/sjM1MbFR.png",Zee Cinema
-http://sansat.net:25461/live/02048081503032/02048081503032/100805.ts
+http://103.107.79.87:8080/CH8109HD02/video.m3u8
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/rsjnFPmy/sjM1MbFR.png",Zee Cinema HD
-https://tv5.hoichoi24.com/1611/tracks-v1a1/index.m3u8
+http://103.107.79.87:8080/CH8109HD02/video.m3u8
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/Up3mWkD.jpg",ABZY Movies 
 http://xtv.ooo:8080/live/T4S00515/820172/104200.ts
