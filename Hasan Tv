@@ -524,10 +524,10 @@ http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=156163&exten
 http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=1112131&extension=ts
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/OujQ9gL.png",Zee Tv
- http://103.120.172.74:1140/
+ http://zeestb1.online/dhoom.php?id=10578
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/OujQ9gL.png",Zee Tv HD
- https://tv5.hoichoi24.com/1706/tracks-v1a1/mono.m3u8
+ http://zeestb1.online/dhoom.php?id=10578
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/YS0GWpSY/zee-tv-marathi-hd.jpg",Zee Marathi HD
 http://103.120.172.74:1040/
