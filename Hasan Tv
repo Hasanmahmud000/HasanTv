@@ -966,8 +966,8 @@ https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",𝐈𝐏𝐋 𝟐𝟎𝟐𝟒
 http://xtv.ooo:8080/T4S00515/820172/167575
 
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/D0zXGwZv/download-20.jpg",Dortmund vs Atletico
-http://103.107.79.87:8080/CH8106SD03/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/L6Jd35zG/images-6-11.jpg",Manchester City vs Real Madrid
+https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=st=1713375638~exp=1713375938~acl=*~id=c4b23192-7304-4cba-858c-930f560a790a~hmac=7ae3d54e72bf18a20272e59b7c1fcd5f882a0e17c6dca9213b49020af33a0cfd&originpath=/linear/hls/pb/event/MU1Tz6gxSAuGNMvGmokn4A/stream/41f6aebc-424b-4de2-b337-b1408faf5ae5:TPE/master.m3u8
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtlkQD-YvPJCHLw4hF6bhH_JDO42SeuQtI51GqP57eQ&s",Barcelona vs PSG
 http://tgaadi-web.tech/zain_tv.php?tv=85762
