@@ -948,7 +948,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=2137600.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/3Qd5fSx.png",Sony Sports 1 HD
-http://tv5.hoichoi24.com/1021/tracks-v1a1/index.m3u8
+http://103.107.79.87:8080/CH8106SD03/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/6ezUY5q.png",Sony Sports 2 HD
 http://tv5.hoichoi24.com/1020/tracks-v1a1/index.m3u8
