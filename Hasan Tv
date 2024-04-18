@@ -972,6 +972,8 @@ https://elverruca30.s3.us-west-2.amazonaws.com/hls/0/stream.m3u8
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/QCbpBjMb/download-20.jpg",Bayern Munich vs Arsenal
 https://245va8.s3.us-east-005.backblazeb2.com/hls/0/stream.m3u8
 
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAga9SXdVzmWeYJfBILqJdn0DvfRxT_hH16b8mNxwbkNTwlLVzrXZa3yRV&s=10",Pakistan Women vs West Indies Woman 
+https://sports.lvyclv.com/live/m33197764/playlist.m3u8
 
 
 
