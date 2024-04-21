@@ -966,14 +966,9 @@ https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",𝐈𝐏𝐋 𝟐𝟎𝟐𝟒
 http://xtv.ooo:8080/T4S00515/820172/167575
 
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/kMKk472W/uel2024-qf-leg2-asroma-vs-acmilan-19apr-tonight-promo-portrait-thumb.webp",Roma vs Milan 
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/12/OLD-Football1.jpg",Real Madrid v Barcelona 
 https://elverruca91.s3.us-west-2.amazonaws.com/hls/0/stream.m3u8
 
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sXDv2Tch/uel2024-qf-leg2-westham-vs-leverkusen-19apr-tonight-promo-portrait-thumb.webp",West Ham vs Bayer Leverkusen
-https://elverruca93.s3.us-west-2.amazonaws.com/hls/0/stream.m3u8
-
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/8zp54y2n/uel2024-qf-leg2-atalanta-vs-liverpool-19apr-tonight-promo-portrait-thumb.webp",Atalanta vs Liverpool
-https://elverruca94.s3.us-west-2.amazonaws.com/hls/0/stream.m3u8
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/4y7rvNxc/ey-Jr-ZXki-Oi-Jza2lsb-HVw-LXVwb-G9h-ZHMvc-HJv-ZC1pb-WFn-ZXMv-Mj-Ay-NC8w-NC9-OZXct-Wm-Vs-YW5k-LXRvd-XItb2-Yt-UGFra-XN0-YW4tb2xk.webp",Pakistan 🆚 Newsland 
 https://mls3.fancode.com/98554_english_hls_5751ta-no/index.m3u8
