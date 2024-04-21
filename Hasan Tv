@@ -1222,7 +1222,7 @@ http://xtv.ooo:8080/live/415663775/826262627/167579.ts
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/vmT9k8CZ/vsBKeDw.png",Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/g7I8nnR.png",National Geographic 
-https://tv5.hoichoi24.com/1902/tracks-v1a1/index.m3u8
+http://103.107.79.87:8080/CH8110HD07/video.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/g7I8nnR.png",National Geographic Wild 
 https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/Z5mfj9ZS/Animal-Planet-HD.png",Animal Planet
