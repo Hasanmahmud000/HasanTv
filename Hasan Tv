@@ -1016,10 +1016,17 @@ http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=1114581&extensi
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgZJOjMlOWLU9Lm6TGD64HqG8opGW7MB-qlrjoHi_H_3RHlY83rReaSbeP&s=10",Star Sports 3
 http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=282678&extension=ts
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436",Star Sports Select 1
+http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=282675&extension=ts
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436",Star Sports Select 1 HD
+http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=155972&extension=ts
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD_msuvfO37SSPzeEUE1lI0XgAXxEcmQHepg&usqp=CAU",Star Sports Select 2
+http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=1114584&extension=ts
 
-
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD_msuvfO37SSPzeEUE1lI0XgAXxEcmQHepg&usqp=CAU",Star Sports Select 2 HD
+http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=282676&extension=ts
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/vmT9k8CZ/vsBKeDw.png",Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
