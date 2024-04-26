@@ -828,36 +828,36 @@ http://xtv.ooo:8080/live/T4S00515/820172/340875.ts
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 1
 https://freeiptv25.netlify.app/live/app/Bongo/index.m3u8?token=freeiptv25
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 2
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 2
 http://mixbix.xyz:8080/live/mLW2nMkArKNs/zMgjNRWVAzC6/239122.ts
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 3
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 3
 http://mixbix.xyz:8080/live/mLW2nMkArKNs/zMgjNRWVAzC6/239123.ts
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 4
 http://mixbix.xyz:8080/live/mLW2nMkArKNs/zMgjNRWVAzC6/239125.ts
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 5
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 5
 http://mag.premiumplus.tv/play/live.php?mac=00:1A:79:61:4F:5D&stream=1024830&extension=ts
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 6
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 6
 http://xtv.ooo:8080/live/T4S00515/820172/341039.ts
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 7
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 7
 http://xtv.ooo:8080/live/T4S00515/820172/341040.ts
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 8
 http://xtv.ooo:8080/live/T4S00515/820172/341041.ts
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 9
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 9
 http://xtv.ooo:8080/live/T4S00515/820172/341043.ts
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 10
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 10
 http://xtv.ooo:8080/live/T4S00515/820172/253596.ts
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 11
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 11
 http://xtv.ooo:8080/live/T4S00515/820172/263394.ts
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 12
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 12
 http://xtv.ooo:8080/live/T4S00515/820172/251578.ts
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 13
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 13
 http://xtv.ooo:8080/live/T4S00515/820172/251580.ts
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 14
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 14
 http://xtv.ooo:8080/live/T4S00515/820172/251590.ts
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 15
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 15
 http://mag.premiumplus.tv/play/live.php?mac=00:1A:79:61:4F:5D&stream=1019880&extension=ts
 
 
