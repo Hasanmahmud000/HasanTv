@@ -1007,6 +1007,12 @@ http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=1114579&extensi
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png",Sony Sports Ten 5
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png",Star Sports 1
+http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=1114580&extension=ts
+
+
+
+
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/vmT9k8CZ/vsBKeDw.png",Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
