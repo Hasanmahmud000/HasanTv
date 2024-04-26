@@ -825,12 +825,15 @@ http://xtv.ooo:8080/live/T4S00515/820172/340875.ts
 
 
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 1
-http://mixbix.xyz:8080/live/mLW2nMkArKNs/zMgjNRWVAzC6/239121.ts
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 1
+https://freeiptv25.netlify.app/live/app/Bongo/index.m3u8?token=freeiptv25
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 2
 http://mixbix.xyz:8080/live/mLW2nMkArKNs/zMgjNRWVAzC6/239122.ts
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 3
 http://mixbix.xyz:8080/live/mLW2nMkArKNs/zMgjNRWVAzC6/239123.ts
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",Movies Server 4
 http://mixbix.xyz:8080/live/mLW2nMkArKNs/zMgjNRWVAzC6/239125.ts
 
