@@ -1044,7 +1044,15 @@ http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=315181&extensio
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYyA_cnYvKX8cXQ4fb-wqUiTFv9Oh0XK-wBq8zoP2p7SYEJ8jCTLdXL90&s=10",DD Sports
 http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=155983&extension=ts
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/zkRAgqv.jpg",
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/1315px-WWE_Network_logo.svg.png",WWE
+http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=175006&extension=ts
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuJZwll1yDc6IwfB4_XfT33ke4DAaaQCgf0Omc4cyfvCeVvWnPRdARbRA&s=10",Willow Cricket 
+http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=1104677&extension=ts
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdy4C4g5PPu91tbSZN9lgejySS9S5GhO04BThHfQpH&s",Willow Cricket Extra
+http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=1142110&extension=ts
+
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/vmT9k8CZ/vsBKeDw.png",Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
