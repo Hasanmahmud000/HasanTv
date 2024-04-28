@@ -426,6 +426,7 @@ http://103.107.79.87:8080/CH8110HD02/video.m3u8
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/J4jcz3x4/image.jpg",Zee Bangla Cinema
 http://xtv.ooo:8080/T4S00515/820172/245897
+https://xo.toxicify-pro.workers.dev/bpk-tv/Zee_Bangla_Cinema_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/bvV1BmyL/Enterr10-Bangla.jpg",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
