@@ -159,7 +159,7 @@ http://xtv.ooo:8080/667861/336612/245946
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png",Somay News
 http://tv5.hoichoi24.com/1111/tracks-v1a1/index.m3u8
-https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8
+https://bdixtv247.techpriyo.com/api/jadootv/jado.php?id=somoy_news
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/cQk0MMk/independenttv.png",Independent 
 https://livess.jagobd.com.bd/live-orgin/independent-8-org.stream/chunks.m3u8
