@@ -1085,6 +1085,16 @@ https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 #EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="SPORTS", FIFA Plus
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPi3SpXvSuU6ZS9_JctogZC26yHtrqD-fljJLMBIWUA&s",Ten Sports 
+http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=281153&extension=ts
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/zkRAgqv.jpg",
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/vmT9k8CZ/vsBKeDw.png",Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
