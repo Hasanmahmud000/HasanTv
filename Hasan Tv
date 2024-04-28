@@ -411,6 +411,7 @@ https://xo.toxicify-pro.workers.dev/bpk-tv/Colors_Bangla_Cinema_MOB/Fallback/ind
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/L4nx2ZGn/image.jpg",Sun Bangla 
 http://103.107.79.87:8080/CH8110HD04/video.m3u8
+https://xo.toxicify-pro.workers.dev/bpk-tv/Sun_Bangla_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/iqLyqRz.jpg",Sun Bangla Cinema
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
