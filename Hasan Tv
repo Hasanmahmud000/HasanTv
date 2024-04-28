@@ -407,6 +407,7 @@ https://xo.toxicify-pro.workers.dev/bpk-tv/Colors_Bengali_HD_MOB/Fallback/index.
 
 #EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20200720045951" group-title="KOLKATA", COLORS BANGLA CINEMA
 https://tv5.hoichoi24.com/1404/tracks-v1a1/mono.m3u8
+https://xo.toxicify-pro.workers.dev/bpk-tv/Colors_Bangla_Cinema_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/L4nx2ZGn/image.jpg",Sun Bangla 
 http://103.107.79.87:8080/CH8110HD04/video.m3u8
