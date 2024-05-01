@@ -7,10 +7,14 @@
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",𝐈𝐏𝐋 𝟐𝟎𝟐𝟒
 https://live-cdn.tsports.com/live-02/index.m3u8
 
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",𝐈𝐏𝐋 𝐁𝐚𝐧𝐠𝐥𝐚 𝟐𝟎𝟐𝟒
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",𝐈𝐏𝐋 𝟐𝟎𝟐𝟒
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1036490&extension=ts
 
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",𝐈𝐏𝐋 𝟐𝟎𝟐𝟒
+https://live-cdn.tsports.com/live-02/index.m3u8
 
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfnocWjbm4TIcGFUhkXrT9bHlZl10PbxzS1w&usqp=CAU",PSG 🆚 Lorient
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://images.slivcdn.com/videoasset_images/skc_al_nassr_vs_al_khaleej_sf_promo_portrait_thumb_ton.jpg?h=494&w=344&q=high",Al-Nassr 🆚 Al-Khaleej
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=st=1714585310~exp=1714585610~acl=*~id=67c91ee5-6f69-4e8b-aa42-3c714a0764c1~hmac=9695c2d64428d297008e86b6f4848802913093328b90da0fc8aa6f8de7ab88a8&originpath=/linear/hls/pb/event/NVkw1vF1SImKE2QAWVwfBA/stream/fbd05696-5e76-4db5-8a2c-3b83ee8969dd:SIN/master.m3u8
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4W0IBxZNVtDBGR30v2x4NgyZbCu-tMmAMzXodKmUzxg&s",Wolves vs Bournemouth
 
@@ -22,9 +26,7 @@ https://live-cdn.tsports.com/live-02/index.m3u8
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2kYbvX32soMTvVGzGfCDZbl4c6QIJlix3YJVElz9bMg&s",atalanta vs fiorentina
 
-
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/4y7rvNxc/ey-Jr-ZXki-Oi-Jza2lsb-HVw-LXVwb-G9h-ZHMvc-HJv-ZC1pb-WFn-ZXMv-Mj-Ay-NC8w-NC9-OZXct-Wm-Vs-YW5k-LXRvd-XItb2-Yt-UGFra-XN0-YW4tb2xk.webp",Pakistan 🆚 Newsland 
-
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://images.fancode.com/eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wNC9XZXN0LUluZGllcy1Xb21lbi10b3VyLW9mLVBha2lzdGFuLW9sZC1tYXRjaC1jYXJkLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo0MDR9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",Pakistan Women 🆚 Newsland Women 
 
@@ -995,27 +997,25 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhoj
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Sports Ten 1
-http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=1114576&extension=ts
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=156017&extension=ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",Sony Sports Ten 2
-http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=1114577&extension=ts
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=156010&extension=ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Sports Ten 3
-http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=1114578&extension=ts
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=156024&extension=ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png",Sony Sports Ten 4
-http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=1114579&extension=ts
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1114579&extension=ts
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png",Sony Sports Ten 5
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png",Star Sports 1
-http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=1114580&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HINDI.png/2560px-Star_Sports_1_HD.png",Star Sports 1
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=282674&extension=ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/STAR_Sports_2_logo.png/revision/latest?cb=20150719162835",Star Sports 2
-http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=1114581&extension=ts
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=155966&extension=ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgZJOjMlOWLU9Lm6TGD64HqG8opGW7MB-qlrjoHi_H_3RHlY83rReaSbeP&s=10",Star Sports 3
-http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=282678&extension=ts
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=155976&extension=ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436",Star Sports Select 1
 http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=282675&extension=ts
