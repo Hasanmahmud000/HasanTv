@@ -1082,14 +1082,14 @@ http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1282753&exte
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh9C0DCIkpOgcv_1eNsQ26LHSFm1nlo5MnsDhq7OD9vjkY7Dh8NrmoGB0Q&s=10",ESPN 3 
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1282752&extension=m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png",DAZN 1 HD 
-http://tvsmart.xyz:8080/cetintaskir/RPhtx1cr1/4880
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png",DAZN 2 HD 
-http://tvsmart.xyz:8080/cetintaskir/RPhtx1cr1/4881
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/DAZN_3.svg/500px-DAZN_3.svg.png",DAZN EVENT 3 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png",DAZN EVENT 1 
 http://tvsmart.xyz:8080/cetintaskir/RPhtx1cr1/70406
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1ni1lpwjtnxmr1xklfoptrt2mz_image-header_pDach_1662550731000&quality=70",DAZN EVENT 2 
+http://tvsmart.xyz:8080/cetintaskir/RPhtx1cr1/70407
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1ni1lpwjtnxmr1xklfoptrt2mz_image-header_pDach_1662550731000&quality=70",DAZN EVENT 2 
+http://tvsmart.xyz:8080/cetintaskir/RPhtx1cr1/70407
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/vmT9k8CZ/vsBKeDw.png",Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
