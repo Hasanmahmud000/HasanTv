@@ -14,10 +14,10 @@ http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1036490&exte
 https://live-cdn.tsports.com/live-02/index.m3u8
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://images.slivcdn.com/videoasset_images/skc_al_nassr_vs_al_khaleej_sf_promo_portrait_thumb_ton.jpg?h=494&w=344&q=high",Al-Nassr 🆚 Al-Khaleej
-https://a2uy.short.gy/NAS-V-KHLJ/Manik-Chor-Xd/Join-@HimelOP_Official/Zubayer-Op.m3u8
+
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://e0.365dm.com/23/10/768x432/LAND_16_9_6310826.jpg?20231006102109",Borussia Dortmund vs PSG
-https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8
+
 
 
 
@@ -1082,11 +1082,6 @@ http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1282753&exte
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh9C0DCIkpOgcv_1eNsQ26LHSFm1nlo5MnsDhq7OD9vjkY7Dh8NrmoGB0Q&s=10",ESPN 3 
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1282752&extension=m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png",DAZN EVENT 1 
-http://tvsmart.xyz:8080/cetintaskir/RPhtx1cr1/70406
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1ni1lpwjtnxmr1xklfoptrt2mz_image-header_pDach_1662550731000&quality=70",DAZN EVENT 2 
-http://tvsmart.xyz:8080/cetintaskir/RPhtx1cr1/70407
 
 
 
