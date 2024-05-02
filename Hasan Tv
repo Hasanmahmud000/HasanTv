@@ -996,7 +996,7 @@ http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=156024&exten
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png",Sony Sports Ten 4
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1114579&extension=ts
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HINDI.png/2560px-Star_Sports_1_HD.png",Star Sports 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://bokulsports.com/upload/channel/Tv%20logo/20240418_191837.jpg",Star Sports 1
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=282674&extension=ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/STAR_Sports_2_logo.png/revision/latest?cb=20150719162835",Star Sports 2
@@ -1023,9 +1023,6 @@ http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=1104676&extensi
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports 
 http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=281100&extension=ts
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoGfbnszCAOwqeIA3fm45ufKLjlnTYZQQvvvwQYIQ7aUsxegguHzjBt-8&s=10",Euroports 
-http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=156027&extension=ts
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpp69gsQwJYuDspe-650YnMewqMxf1vff7OtChwYqXPg&s",Astro Cricket 
 http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=315181&extension=ts
 
@@ -1043,9 +1040,6 @@ http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=1142110&extensi
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoMMKiaUjHfkMQ60uK0ns-6fMmtF9dKIozqKOC9nDt4g&s",Super Sports Cricket
 http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=1104669&extension=ts
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHOGPuc1sprtAbWxL0vv28-pGW9TyfkWgK-cluAElUk4zWmnUy_80vp6lf&s=10",Sky Sports Cricket
-http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=1104668&extension=ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZe81aBjDDapgG1xWtlz52yD2N4dKimdkD_LXCjY0nYA&s",Fox Cricket 
 http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=646948&extension=ts
@@ -1073,14 +1067,79 @@ http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=281153&extensio
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO7cPJt_5dWYqXoJd3gYOGbsgXIYVyCXeRHw&usqp=CAU",La Liga 
 https://tgaadi-web.tech/b1g.php?tv=5629
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMqXBIdb6iTIzCmWdO5rVqw_POv4oUPqnO02UfmP759QfUaurlP3FobxU&s=10",ESPN 1 
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1282754&extension=m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT SPORTS 1 HD
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458654&extension=m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYiilIWeaTcCEyoDaFcuA02Gr8owi8yBIGGA&s",ESPN 2 
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1282753&extension=m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/TNT_Sports_2_HD.png/revision/latest?cb=20210211003006",TNT SPORTS 2 HD
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458653&extension=m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh9C0DCIkpOgcv_1eNsQ26LHSFm1nlo5MnsDhq7OD9vjkY7Dh8NrmoGB0Q&s=10",ESPN 3 
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1282752&extension=m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://media.info/l/o/5/5712.1690027954.png",TNT SPORTS 3 HD
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458652&extension=m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://media.info/l/o/1/1491.1690027975.png",TNT SPORTS 4 HD
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458651&extension=m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/Logo-sky-sports-hd-free-download-PNG.png",SKY SPORTS NEWS HD
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458681&extension=m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://1.bp.blogspot.com/-vL5fvnCJdDA/XrqC_CutwcI/AAAAAAAAC2E/aLM5ZItkeA0CD5NyIVPb5QA7_OIKsjR4gCLcBGAsYHQ/s640/Sky%2BSports%2BMain%2BEvents.jpg",SKY SPORTS MAIN EVENTS HD
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458658&extension=m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://helpforum.sky.com/t5/image/serverpage/image-id/97282i8604F816E24C42BC/image-size/large?v=v2&px=999",SKY SPORTS TENNIS HD
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458814&extension=m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-action-uk.svg",SKY SPORTS ACTION HD
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458664&extension=m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/82plpt1601128493.png",SKY SPORTS ARENA HD
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458663&extension=m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/47d7os1502554865.png",SKY SPORTS CRICKET HD
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458662&extension=m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHOGPuc1sprtAbWxL0vv28-pGW9TyfkWgK-cluAElUk4zWmnUy_80vp6lf&s=10",Sky Sports Cricket
+http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=1104668&extension=ts
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/SkySportsFootball_201708/sky%20sports%20football.png",SKY SPORTS FOOTBALL HD
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458660&extension=m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.prolificnorth.co.uk/wp-content/uploads/2015/02/skysportsgolf_0.png",SKY SPORTS GOLF HD
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458659&extension=m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-mix-vector-logo-2021.png",SKY SPORTS MIX FHD
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458671&extension=m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png",SKY SPORTS PREMIER LEAGUE FHD
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458669&extension=m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://bokulsports.com/upload/channel/20240313_084922.jpg",SKY SPORTS RACING FHD
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458668&extension=m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png",SKY SPORTS F1 FHD
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458661&extension=m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoGfbnszCAOwqeIA3fm45ufKLjlnTYZQQvvvwQYIQ7aUsxegguHzjBt-8&s=10",Euroports 
+http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=156027&extension=ts
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-1-logo-vector.png",EUROSPORT 1 HD
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458644&extension=m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-2-logo-vector.png",EUROSPORT 2 HD
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458648&extension=m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",PREMIER SPORTS 1 HD
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458642&extension=m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://bokulsports.com/upload/channel/20240317_221551.png",PREMIER SPORTS 2 HD
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458641&extension=m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png",MUTV HD
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=45324&extension=m3u8
+
+
+
+
+
 
 
 
