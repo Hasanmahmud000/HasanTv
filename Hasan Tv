@@ -1042,6 +1042,12 @@ http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=1104677&extensi
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdy4C4g5PPu91tbSZN9lgejySS9S5GhO04BThHfQpH&s",Willow Cricket Extra
 http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=1142110&extension=ts
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png",PTV SPORTS HD
+https://tgaadi-web.tech/zain_tv.php?tv=91914
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.pngaaa.com/639/7243639-middle.png",GEO SUPER HD
+https://tgaadi-web.tech/zain_tv.php?tv=91959
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoMMKiaUjHfkMQ60uK0ns-6fMmtF9dKIozqKOC9nDt4g&s",Super Sports Cricket
 http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=1104669&extension=ts
 
@@ -1167,6 +1173,8 @@ https://tgaadi-web.tech/zain_tv.php?tv=117474
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png",USA FOX SOCCER PLUS
 https://tgaadi-web.tech/zain_tv.php?tv=117459
+
+
 
 
 
