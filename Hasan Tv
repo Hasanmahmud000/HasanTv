@@ -25,6 +25,9 @@ http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458654&exte
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ90SN1dHooshv1iKhJSV5e3kjk1nSXbLhqo1jGqZ23HQ&s",Olympique Marseille 🆚 Atalanta
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458652&extension=m3u8
 
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://assets.khelnow.com/news/uploads/2024/04/AS-Roma-vs-Bayer-Leverkusen-copy.jpg",Roma 🆚 Bayer Leverkusen
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/master_mdh.m3u8?hdnea=st=1714679369~exp=1714679669~acl=*~id=2077f988-bfed-46b7-8564-0dede8461d2f~hmac=ad130d11f297447fef9ea87d8e34330aa3e52e89e1d47f714572c0e227bd6f9d&originpath=/linear/hls/pb/event/8cov9tHQRj26xm-Qz6uWzQ/stream/5302152c-5d1f-4236-a94e-5925ddcff127:TPE2/master.m3u8
+
 
 
 #EXTINF:-1 group-title="Powered By BDStreamHub" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",BDStreamHub Tv 
