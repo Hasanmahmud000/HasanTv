@@ -1071,7 +1071,7 @@ https://tgaadi-web.tech/b1g.php?tv=5629
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT SPORTS 1 HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458654&extension=m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://media.info/i/lf/0/1690027877/1540.png",TNT SPORTS 2 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://media.info/l/f/1/1540.1690027877.png",TNT SPORTS 2 HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458653&extension=m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://media.info/l/o/5/5712.1690027954.png",TNT SPORTS 3 HD
