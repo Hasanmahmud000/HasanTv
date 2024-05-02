@@ -19,7 +19,8 @@ http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458658&exte
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://assets.khelnow.com/news/uploads/2024/04/AS-Roma-vs-Bayer-Leverkusen-copy.jpg",Roma 🆚 Bayer Leverkusen
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458653&extension=m3u8
 
-
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://tips.gg/match/aston-villa-vs-olympiakos-piraeus-02-05-2024-08-00/poster/",Aston Villa 🆚 Olympiakos Piraeus
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458654&extension=m3u8
 
 
 
