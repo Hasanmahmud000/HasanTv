@@ -1045,9 +1045,10 @@ http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=1104669&extensi
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZe81aBjDDapgG1xWtlz52yD2N4dKimdkD_LXCjY0nYA&s",Fox Cricket 
 http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=646948&extension=ts
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/suTsrGn.png",FIFA TV
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://pngimg.com/d/fifa_PNG26.png",FIFA TV
 https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Ut7lU52.jpg",FIFA Plues
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png",FIFA Plues
 https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="SPORTS", FIFA Plus
@@ -1062,10 +1063,10 @@ https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 #EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="SPORTS", FIFA Plus
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPi3SpXvSuU6ZS9_JctogZC26yHtrqD-fljJLMBIWUA&s",Ten Sports 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png",Ten Sports 
 http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=281153&extension=ts
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO7cPJt_5dWYqXoJd3gYOGbsgXIYVyCXeRHw&usqp=CAU",La Liga 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png",La Liga 
 https://tgaadi-web.tech/b1g.php?tv=5629
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT SPORTS 1 HD
