@@ -17,8 +17,7 @@ https://vsd165.mycdn.me/hls/6190490520285.m3u8/sig/omVL_sOYkyE/expires/171474291
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458658&extension=m3u8
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://assets.khelnow.com/news/uploads/2024/04/AS-Roma-vs-Bayer-Leverkusen-copy.jpg",Roma 🆚 Bayer Leverkusen
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/master_mdh.m3u8?hdnea=st=1714678526~exp=1714678826~acl=*~id=ac0eaa66-3cce-4246-9f13-51c3cd9c7135~hmac=6e4fa7d29e5dbb182fa2023e13778cbe1aff0375ec6edeb96cde9da23991498b&originpath=/linear/hls/pb/event/8cov9tHQRj26xm-Qz6uWzQ/stream/c8875c74-96ff-49a9-bb6b-c2be85642b16:TPE2/master.m3u8
-
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458653&extension=m3u8
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://tips.gg/match/aston-villa-vs-olympiakos-piraeus-02-05-2024-08-00/poster/",Aston Villa 🆚 Olympiakos Piraeus
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458654&extension=m3u8
