@@ -1134,10 +1134,10 @@ http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458644&exte
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-2-logo-vector.png",EUROSPORT 2 HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458648&extension=m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",PREMIER SPORTS 1 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",PREMIER SPORTS 1 FHD
 https://tgaadi-web.tech/b1g.php?tv=13840
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://bokulsports.com/upload/channel/20240317_221551.png",PREMIER SPORTS 2 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://bokulsports.com/upload/channel/20240317_221551.png",PREMIER SPORTS 2 FHD
 https://tgaadi-web.tech/b1g.php?tv=11972
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png",MUTV HD
