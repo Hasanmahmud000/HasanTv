@@ -908,7 +908,7 @@ http://watchindia.net:8880/live/83023/62335/2182.m3u8
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sonic
-https://keralamaxtv.com/vt/stream.m3u8?id=Sonic_Nickelodeon
+http://opplex.tv:8080/live/223322/223322/34011.m3u8
 
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sonic Hindi
 
