@@ -23,7 +23,6 @@ https://live-cdn.tsports.com/live-01/index.m3u8
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBnv1W-Xsu9K5X84JtFAU1_SBM17tcDj0COscKQ01xreC4eA_qTeXZbxs&s=10",Bangladesh Vs Zimbabwe
 https://sports.lvyclv.com/live/m33242084/playlist.m3u8
 
-
 #EXTINF:-1 group-title="Powered By BDStreamHub" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",BDStreamHub Tv 
 https://rr3---sn-4g5ednd7.googlevideo.com/videoplayback?expire=1711040108&ei=DBL8ZYeqINa_6dsP5IiqeA&ip=2a01%3A4f8%3Ac17%3A6b8e%3A34c2%3A23fe%3Ad56a%3Aac72&id=o-ACVDCsvdrArCTrkacoayP4ojCBnTkkYh2FHXKrjkp2tu&itag=22&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=Mo&mm=31%2C29&mn=sn-4g5ednd7%2Csn-4g5lzned&ms=au%2Crdu&mv=m&mvi=3&pl=44&initcwndbps=507500&vprv=1&svpuc=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=7961.170&lmt=1695499268464715&mt=1711018138&fvip=2&c=ANDROID&txp=5532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cvprv%2Csvpuc%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIhAMaZppjiFCDb36BJqXa_s2MWyfwN4isYodpwfeTf2AhkAiAzv9Sm2GhJ6SYsI-O_j1cZ-Z7V7pcv9-Lgm6JgAL_J8g%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=ALClDIEwRQIgKRB1bAg8IsB02zKEwKOE_Tvd3p2AE4E9hrpIo8EcnvUCIQDTmwwu8YnBQT8y1123eEDH8ld2AMkERTWfy9Wac9lsGA%3D%3D&title=Himmat%20_%20Allu%20Arjun%20Bangla%20Dubbed%20Full%20HD%20Movie%20_%20Bangla%20Dubbed%20Movie%202024%20_%20%E0%A6%A4%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%B2%20%E0%A6%AE%E0%A7%81%E0%A6%AD%E0%A6%BF%20%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%20%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE.mp4
 
@@ -1171,11 +1170,56 @@ https://tgaadi-web.tech/zain_tv.php?tv=117474
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png",USA FOX SOCCER PLUS
 https://tgaadi-web.tech/zain_tv.php?tv=117459
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReHPALHwVAlS8vi1_W-_oBxKF_FDtaynKhSmIrj0NH&s",SS Premier League
+https://tgaadi-web.tech/b1g.php?tv=52059
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.gotvafrica.com/media/qfvjnwci/ss_la_liga_224.png",SS LALIGA
+https://tgaadi-web.tech/b1g.php?tv=5629
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png",SS Football HD
+https://tgaadi-web.tech/b1g.php?tv=5628
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.supersport.com/media/kuqlfro4/variety-1-1.png?width=2048&quality=90&format=webp",SS Variety 1 HD
+https://tgaadi-web.tech/b1g.php?tv=52061
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/9vnt801638048828.png",SS Variety 2 HD
+https://tgaadi-web.tech/b1g.php?tv=52065
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/mh03f41638048848.png",SS Variety 3 HD
+https://tgaadi-web.tech/b1g.php?tv=52057
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.supersport.com/media/wq1enpv2/variety-4-1.png?width=2048&quality=90&format=webp",SS Variety 4 HD
+https://tgaadi-web.tech/b1g.php?tv=52058
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://ia801807.us.archive.org/30/items/racinguk-01_202011/supersport-motorsport.png",SS Motorsports HD
+https://tgaadi-web.tech/b1g.php?tv=52067
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLQRBK_xHOz0Gjh0yaK8VQmV-f2n1kwh4fagUXjUhwXA&s",SS Action HD
+https://tgaadi-web.tech/b1g.php?tv=52063
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",SS Cricket HD
+https://tgaadi-web.tech/b1g.php?tv=52064
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",Bein Sports 1 English HD
+https://tgaadi-web.tech/b1g.php?tv=1461
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",Bein Sports 2 English HD
+https://tgaadi-web.tech/b1g.php?tv=39037
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs4MLZzz_6XmNe5xfAUeQroZqKR0Yl3vZKclvsEUzAtw&s",SSC 1 HD
+https://tgaadi-web.tech/b1g.php?tv=691258
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5uhK94rCrznALaTH3LUegetVamQnyGIKPO_WDOXHJ0A&s",SSC 2 HD
+https://tgaadi-web.tech/b1g.php?tv=691260
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/ssc3/original/ssc3.png?height=379.5&width=675&croppingPoint=&version=1&type=webp",SSC 3 HD
+https://tgaadi-web.tech/b1g.php?tv=691262
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/ssc4/original/ssc4.png?height=379.5&width=675&croppingPoint=&version=1&type=webp",SSC 4 HD
+https://tgaadi-web.tech/b1g.php?tv=691264
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/ssc5/original/ssc5.png?height=379.5&width=675&croppingPoint=&version=1&type=webp",SSC 5 HD
+https://tgaadi-web.tech/b1g.php?tv=691266
 
 
 
