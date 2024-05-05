@@ -23,6 +23,9 @@ https://live-cdn.tsports.com/live-01/index.m3u8
 http://103.151.60.214:7444/1101/video.m3u8
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBnv1W-Xsu9K5X84JtFAU1_SBM17tcDj0COscKQ01xreC4eA_qTeXZbxs&s=10",Bangladesh Vs Zimbabwe
+http://103.151.60.214:7444/1102/video.m3u8
+
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBnv1W-Xsu9K5X84JtFAU1_SBM17tcDj0COscKQ01xreC4eA_qTeXZbxs&s=10",Bangladesh Vs Zimbabwe
 https://sports.lvyclv.com/live/m33242084/playlist.m3u8
 
 #EXTINF:-1 group-title="Powered By BDStreamHub" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",BDStreamHub Tv 
@@ -181,11 +184,11 @@ https://himel-op.top/portal/hexa.m3u8?id=256
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png",Gtv
 https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
-http://103.107.79.87:8080/CH8106SD01/tracks-v1a1/mono.m3u8
+http://103.151.60.214:7444/1102/video.m3u8
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",T Sports
 http://bdstreamhub.atwebpages.com/T-sports.m3u8
-http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=156016&extension=ts
+http://103.151.60.214:7444/1101/video.m3u8
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png", Nagorik TV
 https://bdixtv247.techpriyo.com/api/jadootv/jado.php?id=nagorik_tv
