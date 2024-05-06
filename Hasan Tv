@@ -29,7 +29,7 @@ http://103.151.60.214:7444/1102/video.m3u8
 https://sports.lvyclv.com/live/m33244568/playlist.m3u8
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://www.topendsports.com/sport/table-tennis/images/table-tennis-pixabay.jpg",Tabile Day 3 - Session 1 - 6 May 2024
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=st=1714994127~exp=1714994427~acl=*~id=dd43f0e8-2ae0-4550-9b7d-939340d7e4aa~hmac=67aed04d027262617f2f3524451b3ebf4f9c052e2933e6e3879f749eeb616823&originpath=/linear/hls/pb/event/FWf8sA8dTwCRjczTV9uy-A/stream/ff9f366c-1f3b-41e1-85c7-ffaea4b38b19:TPE/master.m3u8
+http://surl.li/tlyto
 
 
 #EXTINF:-1 group-title="Powered By BDStreamHub" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",BDStreamHub Tv 
