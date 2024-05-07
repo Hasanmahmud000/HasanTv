@@ -19,20 +19,20 @@ http://b1g.uk:80/live/Matthew/Matthew123/260998.ts
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",𝐈𝐏𝐋 𝟐𝟎𝟐𝟒 HINDI
 http://starshare.live:8080/live/Sylvia/Sylvia/211.ts
 
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",𝐈𝐏𝐋 Bangla 𝟐𝟎𝟐𝟒
-http://starshare.live:8080/live/Sylvia/Sylvia/304296.ts
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",IPL 2024 BANGLA (LIVE ONLY MATCH TIME)
+http://starshare.live:8080/live/Sylvia/Sylvia/304286.ts
 
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBnv1W-Xsu9K5X84JtFAU1_SBM17tcDj0COscKQ01xreC4eA_qTeXZbxs&s=10",Bangladesh Vs Zimbabwe
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBnv1W-Xsu9K5X84JtFAU1_SBM17tcDj0COscKQ01xreC4eA_qTeXZbxs&s=10",BAN Vs ZIM (LIVE ONLY MATCH TIME)
 https://live-cdn.tsports.com/live-01/index.m3u8
 https://live-cdn.tsports.com/live-01/index.m3u8
 
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBnv1W-Xsu9K5X84JtFAU1_SBM17tcDj0COscKQ01xreC4eA_qTeXZbxs&s=10",Bangladesh Vs Zimbabwe
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBnv1W-Xsu9K5X84JtFAU1_SBM17tcDj0COscKQ01xreC4eA_qTeXZbxs&s=10",BAN Vs ZIM (LIVE ONLY MATCH TIME)
 http://103.151.60.214:7444/1102/video.m3u8
 
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBnv1W-Xsu9K5X84JtFAU1_SBM17tcDj0COscKQ01xreC4eA_qTeXZbxs&s=10",Bangladesh Vs Zimbabwe
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBnv1W-Xsu9K5X84JtFAU1_SBM17tcDj0COscKQ01xreC4eA_qTeXZbxs&s=10",BAN Vs ZIM (LIVE ONLY MATCH TIME)
 https://sports.lvyclv.com/live/m33244568/playlist.m3u8
 
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlvtiGb54CKm2JDEfni6lbSIID3Ntf6iralMGoWrPLI3h5_Yhq-smlSri0&s=10",India Women vs Bangladesh Women
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlvtiGb54CKm2JDEfni6lbSIID3Ntf6iralMGoWrPLI3h5_Yhq-smlSri0&s=10",IND Women vs BAN Women
 https://live-cdn.tsports.com/live-01/index.m3u8
 
 
