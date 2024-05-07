@@ -6,6 +6,7 @@
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",𝐈𝐏𝐋 𝟐𝟎𝟐𝟒
 http://dpus2.ddns.net:5808/bd-tsportsx1/index.m3u8?token=482fbe8c4ce48db4bdc992fd2d501fc7
+http://dpus2.ddns.net:5808/bd-tsportsx1/index.m3u8?token=6e773fb35a7e2d7d3882419ac6a92bba
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",𝐈𝐏𝐋 𝟐𝟎𝟐𝟒
 http://103.151.60.214:7444/1102/video.m3u8
