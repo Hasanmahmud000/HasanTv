@@ -1041,7 +1041,7 @@ http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=1104676&extensi
 http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=281100&extension=ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpp69gsQwJYuDspe-650YnMewqMxf1vff7OtChwYqXPg&s",Astro Cricket 
-http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=315181&extension=ts
+http://starshare.live:8080/live/Sylvia/Sylvia/2494.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYyA_cnYvKX8cXQ4fb-wqUiTFv9Oh0XK-wBq8zoP2p7SYEJ8jCTLdXL90&s=10",DD Sports
 http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=155983&extension=ts
