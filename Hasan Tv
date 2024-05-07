@@ -13,6 +13,9 @@ http://103.151.60.214:7444/1102/video.m3u8
 https://sports.lvyclv.com/live/m33239077/playlist.m3u8
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",𝐈𝐏𝐋 𝟐𝟎𝟐𝟒
+http://starshare.live:8080/live/Sylvia/Sylvia/18452.ts
+
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",𝐈𝐏𝐋 𝟐𝟎𝟐𝟒
 http://172.17.50.112/live/antbd1001/index.m3u8
 http://172.17.50.112/live/fifa2022/index.m3u8
 https://sports.lvyclv.com/live/m33239077/playlist.m3u8
@@ -39,8 +42,7 @@ https://sports.lvyclv.com/live/m33244568/playlist.m3u8
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlvtiGb54CKm2JDEfni6lbSIID3Ntf6iralMGoWrPLI3h5_Yhq-smlSri0&s=10",India Women vs Bangladesh Women
 https://live-cdn.tsports.com/live-01/index.m3u8
 
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn7HiDr-WFp1hu30mR77dFmcTrTKbKXyZGctG4ds5HjA&s",RAW Talk - 7 May 2024
-https://t.ly/omF-3
+
 
 
 #EXTINF:-1 group-title="Powered By BDStreamHub" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",BDStreamHub Tv 
