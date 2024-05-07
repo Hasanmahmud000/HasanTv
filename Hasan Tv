@@ -1259,10 +1259,10 @@ http://mtsiptv.com:2082/live/RaffatAboSwed/MmAQWt3fpPFj/76358.ts
 http://mtsiptv.com:2082/live/RaffatAboSwed/MmAQWt3fpPFj/76358.ts
 
 #EXTINF:-1 group-title="SPORTS 02" tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/subscriptions/starzplaysports.svg",Criclife 1 HD
-http://mtsiptv.com:2082/live/RaffatAboSwed/MmAQWt3fpPFj/232441.ts
+http://opplex.tv:8080/live/7080000/0341708/371469.ts
 
 #EXTINF:-1 group-title="SPORTS 02" tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/subscriptions/starzplaysports.svg",Criclife 2 HD
-http://mtsiptv.com:2082/live/RaffatAboSwed/MmAQWt3fpPFj/232442.ts
+http://opplex.tv:8080/live/7080000/0341708/371470.ts
 
 #EXTINF:-1 group-title="SPORTS 02" tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/subscriptions/starzplaysports.svg",Criclife 3 HD
 http://starshare.live:8080/live/Sylvia/Sylvia/158898.ts
