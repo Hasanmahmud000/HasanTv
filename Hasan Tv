@@ -24,13 +24,13 @@ http://starshare.live:8080/live/Sylvia/Sylvia/304286.ts
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBnv1W-Xsu9K5X84JtFAU1_SBM17tcDj0COscKQ01xreC4eA_qTeXZbxs&s=10",BAN Vs ZIM (LIVE ONLY MATCH TIME)
 https://live-cdn.tsports.com/live-01/index.m3u8
-https://live-cdn.tsports.com/live-01/index.m3u8
+https://prod-ec-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/Kt1HZ1twlfqMI8ABRjQ4YRgQq2NFo8i-Z590VU4MSDZYpMjFD3OD6ki_MsJaL0KwBbzgw6at1stiofQqc6Kx6Q/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBnv1W-Xsu9K5X84JtFAU1_SBM17tcDj0COscKQ01xreC4eA_qTeXZbxs&s=10",BAN Vs ZIM (LIVE ONLY MATCH TIME)
 http://103.151.60.214:7444/1102/video.m3u8
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBnv1W-Xsu9K5X84JtFAU1_SBM17tcDj0COscKQ01xreC4eA_qTeXZbxs&s=10",BAN Vs ZIM (LIVE ONLY MATCH TIME)
-https://sports.lvyclv.com/live/m33244568/playlist.m3u8
+https://sports.lvyclv.com/live/m33249154/playlist.m3u8
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlvtiGb54CKm2JDEfni6lbSIID3Ntf6iralMGoWrPLI3h5_Yhq-smlSri0&s=10",IND Women vs BAN Women
 https://live-cdn.tsports.com/live-01/index.m3u8
