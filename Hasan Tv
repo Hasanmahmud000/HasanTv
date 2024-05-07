@@ -1246,6 +1246,49 @@ http://starshare.live:8080/live/Sylvia/Sylvia/314.ts
 #EXTINF:-1 group-title="SPORTS 02" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Sporttv-2.svg/revision/latest?cb=20231020154516",Sport TV 2 HD
 http://starshare.live:8080/live/Sylvia/Sylvia/315.ts
 
+#EXTINF:-1 group-title="SPORTS 02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Sport_TV%2B_%282023%29.svg",Sport TV+ HD
+http://opplex.tv:8080/live/7080000/0341708/352929.ts
+
+#EXTINF:-1 group-title="SPORTS 02" tvg-logo="https://w7.pngwing.com/pngs/318/371/png-transparent-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text-logo.png",ESPN HD
+http://mtsiptv.com:2082/live/RaffatAboSwed/MmAQWt3fpPFj/76357.ts
+
+#EXTINF:-1 group-title="SPORTS 02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",ESPN 2 HD
+http://mtsiptv.com:2082/live/RaffatAboSwed/MmAQWt3fpPFj/76358.ts
+
+#EXTINF:-1 group-title="SPORTS 02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 HD
+http://mtsiptv.com:2082/live/RaffatAboSwed/MmAQWt3fpPFj/76358.ts
+
+#EXTINF:-1 group-title="SPORTS 02" tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/subscriptions/starzplaysports.svg",Criclife 1 HD
+http://mtsiptv.com:2082/live/RaffatAboSwed/MmAQWt3fpPFj/232441.ts
+
+#EXTINF:-1 group-title="SPORTS 02" tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/subscriptions/starzplaysports.svg",Criclife 2 HD
+http://mtsiptv.com:2082/live/RaffatAboSwed/MmAQWt3fpPFj/232442.ts
+
+#EXTINF:-1 group-title="SPORTS 02" tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/subscriptions/starzplaysports.svg",Criclife 3 HD
+http://starshare.live:8080/live/Sylvia/Sylvia/158898.ts
+
+#EXTINF:-1 group-title="SPORTS 02" tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/subscriptions/starzplaysports.svg",Starzplay Sports HD
+http://mtsiptv.com:2082/live/RaffatAboSwed/MmAQWt3fpPFj/229226.ts
+
+#EXTINF:-1 group-title="SPORTS 02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro SuperSport 1 HD
+http://4ksuper.live:80/live/Michael88/Michael88/1016544.ts
+
+#EXTINF:-1 group-title="SPORTS 02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROBj4usHxdKWc2ntyzQDHsIxEZ-WlcGDn_-7sYVnEEdg&s",Astro SuperSport 2 HD
+http://4ksuper.live:80/live/Michael88/Michael88/918985.ts
+
+#EXTINF:-1 group-title="SPORTS 02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro SuperSport 3 HD
+http://4ksuper.live:80/live/Michael88/Michael88/918984.ts
+
+#EXTINF:-1 group-title="SPORTS 02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro SuperSport 4 HD
+http://4ksuper.live:80/live/Michael88/Michael88/918983.ts
+
+#EXTINF:-1 group-title="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png",DAZN LaLiga HD
+http://4ksuper.live:80/live/Michael88/Michael88/986640.ts
+
+#EXTINF:-1 group-title="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png?fit=440%2C264&ssl=1",DAZN LaLiga 2 HD
+http://4ksuper.live:80/live/Michael88/Michael88/1347433.ts
+
+
 
 
 
