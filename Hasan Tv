@@ -5,11 +5,11 @@
 
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",IPL 2024 Live ENG
-http://starshare.live:8080/live/Sylvia/Sylvia/130714.m3u8
-http://starshare.live:8080/live/Sylvia/Sylvia/113069.m3u8
+http://starshare.live:8080/live/Sylvia/Sylvia/130714.ts
+http://starshare.live:8080/live/Sylvia/Sylvia/113069.ts
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",IPL 2024 Live ENG
-http://starshare.live:8080/live/Sylvia/Sylvia/18452.m3u8
+http://starshare.live:8080/live/Sylvia/Sylvia/18452.ts
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",IPL 2024 Live ENG
 https://freeiptv25.netlify.app/live/bdix/app/ASPCRI.m3u8
