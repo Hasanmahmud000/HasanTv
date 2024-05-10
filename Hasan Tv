@@ -5,10 +5,10 @@
 
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",IPL 2024 Live ENG
-http://starshare.live:8080/live/Hassan123/Hassan123/18452.ts
+http://103.151.60.214:7444/1101/video.m3u8
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",IPL 2024 Live ENG
-http://starshare.live:8080/live/Hassan123/Hassan123/113069.ts
+http://103.151.60.214:7444/1102/video.m3u8
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",IPL 2024 Live Toffee 
 https://its-nayeemparvez.xyz/toffee/stream.php?id=match-1&hls=master_1000.m3u8
@@ -26,8 +26,7 @@ https://bunyhlsipla.bunycdn.com/live/1080pa.m3u8
 http://starshare.live:8080/live/Hassan123/Hassan123/304286.ts
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBnv1W-Xsu9K5X84JtFAU1_SBM17tcDj0COscKQ01xreC4eA_qTeXZbxs&s=10",BAN Vs ZIM (LIVE ONLY MATCH TIME)
-https://live-cdn.tsports.com/live-01/index.m3u8
-https://prod-ec-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/Kt1HZ1twlfqMI8ABRjQ4YRgQq2NFo8i-Z590VU4MSDZYpMjFD3OD6ki_MsJaL0KwBbzgw6at1stiofQqc6Kx6Q/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live
+http://103.151.60.214:7444/1101/video.m3u8
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBnv1W-Xsu9K5X84JtFAU1_SBM17tcDj0COscKQ01xreC4eA_qTeXZbxs&s=10",BAN Vs ZIM (LIVE ONLY MATCH TIME)
 http://103.151.60.214:7444/1102/video.m3u8
