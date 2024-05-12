@@ -25,17 +25,8 @@ http://starshare.live:8080/live/35858547/86368536/304278.ts
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",IPL 2024 BANGLA (LIVE ONLY MATCH TIME)
 http://starshare.live:8080/live/35858547/86368536/304296.ts
 
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBnv1W-Xsu9K5X84JtFAU1_SBM17tcDj0COscKQ01xreC4eA_qTeXZbxs&s=10",BAN Vs ZIM (LIVE ONLY MATCH TIME)
-http://103.151.60.214:7444/1101/video.m3u8
-
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBnv1W-Xsu9K5X84JtFAU1_SBM17tcDj0COscKQ01xreC4eA_qTeXZbxs&s=10",BAN Vs ZIM (LIVE ONLY MATCH TIME)
-http://103.151.60.214:7444/1102/video.m3u8
-
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBnv1W-Xsu9K5X84JtFAU1_SBM17tcDj0COscKQ01xreC4eA_qTeXZbxs&s=10",BAN Vs ZIM (LIVE ONLY MATCH TIME)
-https://mominvaithanks.xyz/mominRocks/pks.php?m3u8=https://mprod-cdn.toffeelive.com/live/match-3/index.m3u8
-
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBnv1W-Xsu9K5X84JtFAU1_SBM17tcDj0COscKQ01xreC4eA_qTeXZbxs&s=10",BAN Vs ZIM (LIVE ONLY MATCH TIME)
-https://sports.lvyclv.com/live/m33254570/playlist.m3u8
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://e0.365dm.com/24/02/2048x1152/skysports-f1-2024-graphic_6468800.jpg?20240225120251",Formula 1 (LIVE ONLY MATCH TIME)
+https://tgaadi-web.tech/b1g.php?tv=20167
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web/match-details-scrim.png",Pakistan Vs Ireland (LIVE ONLY MATCH TIME)
 https://sports.lvyclv.com/live/m33254631/playlist.m3u8
