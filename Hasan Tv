@@ -25,11 +25,8 @@ http://starshare.live:8080/live/35858547/86368536/304278.ts
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",IPL 2024 BANGLA (LIVE ONLY MATCH TIME)
 http://starshare.live:8080/live/35858547/86368536/304296.ts
 
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiTSO0-8imhCpirsAHAIE27C9iFTpl016LvHuoMOQYWYsYo1EZi8-jN_pu&s=10",Manchester City vs West Ham United
-https://play1nm.hnyongshun.cn/live/sd-6wXrYLjPtQwaufsZg2.m3u81716112108:KeyName=tsports-ed25519-01:Signature=uHpNoxwIb-42XMSp92hWCDC1sWyuvJU5V9-6nr8iQbKjSZxiGsg-gS0XuEnKRFQOZqvXBTKmwbiagudAWn5qAQ
-
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbg0AYyNiSEGP6LmyIYJSIt9UTktOFIzXb2gHJufidH3LDmFQoqT_8fYc&s=10",Liverpool vs Wolves
-https://play1nm.hnyongshun.cn/live/sd-6wXrYLjPNpMJAyepsp.m3u8
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTw2gLxbwcgGHfK1mHM2pr6iBQuMcG6ZIzqlXYcX6j4g&s",Ireland 🆚 Netherlands (LIVE ONLY MATCH TIME)
+https://a2uy.short.gy/IRE-V-SCO/Join-@HimelOP_Official/Zubayer-Op.m3u8
 
 
 #EXTINF:-1 group-title="Notice" tvg-logo="https://i.imgur.com/n3r7sEr.jpg",Notice
