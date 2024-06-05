@@ -1,4 +1,6 @@
-#EXTM3U #EXT-X-TARGETDURATION:5 #EXT-X-MEDIA-SEQUENCE:429393655 #EXT-X-VERSION:3 #EXT-X-KEY:METHOD=AES-128,URI="https://mprod-cdn-key.toffeelive.com/iccenglish-m1-key/15be93f0-eafe-4954-81af-846bcd5d94f7_0_1717574219.key",IV=0xE74A7742FF6E2A486BE482D9B0BE40F0 #EXTINF:4.000, https://mprod-cdn.toffeelive.com/live/match-1/master_1300/1717574613.ts #EXTINF:4.000, https://mprod-cdn.toffeelive.com/live/match-1/master_1300/1717574617.ts 
+#EXTM3U #EXT-X-TARGETDURATION:5 #EXT-X-MEDIA-SEQUENCE:429393655 #EXT-X-VERSION:3 #EXT-X-KEY:METHOD=AES-128,URI="https://mprod-cdn-key.toffeelive.com/iccenglish-m1-key/15be93f0-eafe-4954-81af-846bcd5d94f7_0_1717574219.key",IV=0xE74A7742FF6E2A486BE482D9B0BE40F0 
+#EXTINF:4.000, https://mprod-cdn.toffeelive.com/live/match-1/master_1300/1717574613.ts 
+#EXTINF:4.000, https://mprod-cdn.toffeelive.com/live/match-1/master_1300/1717574617.ts 
 #EXTINF:4.000, https://mprod-cdn.toffeelive.com/live/match-1/master_1300/1717574621.ts 
 #EXTINF:4.000, https://mprod-cdn.toffeelive.com/live/match-1/master_1300/1717574625.ts 
 #EXTINF:4.000, https://mprod-cdn.toffeelive.com/live/match-1/master_1300/1717574629.ts 
