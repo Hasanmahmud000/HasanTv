@@ -1,0 +1,11 @@
+#EXTM3U #EXT-X-TARGETDURATION:5 #EXT-X-MEDIA-SEQUENCE:429393495 #EXT-X-VERSION:3 #EXT-X-KEY:METHOD=AES-128,URI="https://mprod-cdn-key.toffeelive.com/iccenglish-m1-key/15be93f0-eafe-4954-81af-846bcd5d94f7_0_1717573619.key",IV=0x74CC697A5C0DD40DD16C9C27F0B25315 
+#EXTINF:4.000, https://mprod-cdn.toffeelive.com/live/match-2/master_1300/1717573973.ts 
+#EXTINF:4.000, https://mprod-cdn.toffeelive.com/live/match-2/master_1300/1717573977.ts 
+#EXTINF:4.000, https://mprod-cdn.toffeelive.com/live/match-2/master_1300/1717573981.ts 
+#EXTINF:4.000, https://mprod-cdn.toffeelive.com/live/match-2/master_1300/1717573985.ts 
+#EXTINF:4.000, https://mprod-cdn.toffeelive.com/live/match-2/master_1300/1717573989.ts 
+#EXTINF:4.000, https://mprod-cdn.toffeelive.com/live/match-2/master_1300/1717573993.ts 
+#EXTINF:4.000, https://mprod-cdn.toffeelive.com/live/match-2/master_1300/1717573997.ts 
+#EXTINF:4.000, https://mprod-cdn.toffeelive.com/live/match-2/master_1300/1717574001.ts 
+#EXTINF:4.000, https://mprod-cdn.toffeelive.com/live/match-2/master_1300/1717574005.ts 
+#EXTINF:4.000, https://mprod-cdn.toffeelive.com/live/match-2/master_1300/1717574009.ts
