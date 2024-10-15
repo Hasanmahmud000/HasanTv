@@ -4,6 +4,15 @@ https://sonypartnersdaimenew.akamaized.net/hls/live/2018458/SLVSWI/master.m3u8?h
 
 
 
+#EXTINF:-1 group-title="ICC WOMAN'S T20 WORLD CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/2024_ICC_Women%27s_T20_World_Cup_Logo.svg",Womens T20 World Cup - Oct 03 - Oct 20
+https://evbr.short.gy/BDStreamHub/tofffe.m3u8
+
+
+#EXTINF:-1 group-title="ICC WOMAN'S T20 WORLD CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/2024_ICC_Women%27s_T20_World_Cup_Logo.svg",Womens T20 World Cup - Oct 03 - Oct 20
+https://evbr.short.gy/BDStreamHub/Toffe.m3u
+
+
+
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.postimg.cc/jdK93HTJ/images-5-10.jpg",Peace Tv
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
