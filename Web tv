@@ -2,7 +2,8 @@
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdrlymuqu_zpvhufO8jhnLiP5gqqEXBEpUwYkqQHw9u_4IU_hF4xSeqsc&s=10",SIR VS WI 1ST T20I
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018458/SLVSWI/master.m3u8?hdnea=exp=1729037239~acl=*~id=1556784483112233~hmac=6aa05c4e4e16b988660fb06249cffad3c2f15adbcc46930b213723c9be7f8070
 
-
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://img.nbc.com/files/12007390_1920x1080.jpg",ARGENTINA VS BOLIVIA 
+http://tv.cloudcdn.me:80/live.ts?channelId=93739&uid=12481&deviceMac=00:1A:79:6C:28:A1
 
 #EXTINF:-1 group-title="ICC WOMAN'S T20 WORLD CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/2024_ICC_Women%27s_T20_World_Cup_Logo.svg",Womens T20 World Cup - Oct 03 - Oct 20
 https://fifabd.xyz/TOFxE/play.m3u8?id=match-1
