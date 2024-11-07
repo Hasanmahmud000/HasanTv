@@ -1,5 +1,5 @@
 <h1 align="center">Assalamu Alaikum, <br> I'm Hasan</h1>
-<h3 align="center">IPTV by Hasantv 📡</h3>
+<h3 align="center">IPTV by BDStreamHub 📡</h3>
 
 
 
