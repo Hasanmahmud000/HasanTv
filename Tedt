@@ -1,5 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 group-title="" tvg-chno="6577c38b31b2fee545230d69" tvg-id="6577c38b31b2fee545230d69" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/54163718-53c4-4ac6-8d86-ceca29d69554.png", BTV National
-#EXTVLCOPT:http-referrer=https://nowlivetv.com/
-#EXTHTTP:{"referer": "https://nowlivetv.com/"} https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=aHDOikTQXCrej26ibIRPaA&expires=1734580193&user=8333f5cef8e441a0abd75ae8344d39d7|referer=https://nowlivetv.com/
