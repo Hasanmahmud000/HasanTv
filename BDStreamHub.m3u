@@ -374,13 +374,24 @@ https://vod-cdn.lp-playback.studio/raw/jxf4iblf6wlsyor6526t4tcmtmqa/catalyst-vod
 https://q1yjnqk2oi.guardstorage.net/hls_3/yJ2MrzVqBijY4_WIDOUbuVmXTB_WR5vLRgTX9F_caZQ/master.m3u8?sig=9UulmjF6kygmiDYSGEX4cA&expires=1746810960|Referer=https://q1yjnqk2oi.guardstorage.net//&key=BDStreamHub
 
 #EXTINF:-6 group-title=" Movies " tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/The_Mummy_-_Tomb_of_the_Dragon_Emperor.jpg", The Mummy: Tomb of the Dragon Emperor
-https://mcloud.vvid30c.site/hls/1ebd8458b2ca3e3b-05ca6f4d93789de8552de435-476100977ce8a6b57ffdaca4e72c8e600aa412159749651eec2fcef30b8bbdbea297dab008572f/master.m3u8|Referer=https://mcloud.vvid30c.site//&key=BDStreamHub
+http://10.16.100.247/ftps5d1/English/The%20Mummy%20Tomb%20of%20the%20Dragon%20Emperor%20(2008)%20%5B1080p%5D.mp4|Referer=https://10.16.100.247//&key=BDStreamHub
 
-#EXTINF:-6 group-title=" Movies " tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/The_Mummy_-_Tomb_of_the_Dragon_Emperor.jpg", The mummy Return
-https://mcloud.vvid30c.site/hls/7d1f822704d5ab17-3564954877fd4086e31626a1-7648fb4bcf9d0059b47391011c168d5c23e87f90863f12f75a26ab17d5c78027887101df0f3714/master.m3u8|Referer=https://mcloud.vvid30c.site//&key=BDStreamHub
+#EXTINF:-6 group-title=" Movies " tvg-logo="http://10.16.100.244/files/the_mummy_returns.jpg", The mummy Return
+http://10.16.100.202/ftps10/iccftps10sasd10/Movies/English/The%20Mummy%20Returns%20(2001)%201080p%20BluRay.mp4|Referer=https://10.16.100.202//&key=BDStreamHub
 
 #EXTINF:-6 group-title=" Movies " tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/The_Mummy_-_Tomb_of_the_Dragon_Emperor.jpg", The mummy 
 https://mcloud.vvid30c.site/hls/447baa69449e0e36-999414fa323cbcae9a67cb26-3c84bc732a66055621502ea57605ac7c63515962f20eb5ebc016acc3c823efecdbdc80cdf66208/master.m3u8|Referer=https://mcloud.vvid30c.site//&key=BDStreamHub
+
+#EXTINF:-6 group-title=" Movies " tvg-logo="http://10.16.100.244/files/aavesham.jpg", Aavesham
+http://10.16.100.213/iccftps13/iccftps13sasd8/Movies/South%20Indian%20(Hindi%20Dubbed)/Aavesham%20(2024)%201080p%20WEBDL.mp4|Referer=https://10.16.100.213//&key=BDStreamHub
+
+#EXTINF:-6 group-title=" Movies " tvg-logo="http://10.16.100.244/files/bhool_chuk_maaf.jpg", Bhool Chuk Maaf
+http://10.16.100.214/iccftps14/iccftps14sasd7/Movies/Hindi/Bhool%20Chuk%20Maaf%20(2025)%201080p%20DVDRip.mp4|Referer=https://10.16.100.214//&key=BDStreamHub
+
+#EXTINF:-6 group-title=" Movies " tvg-logo="http://10.16.100.244/files/mission_impossible_the_final_reckoning.jpg", Mission Impossible new
+http://10.16.100.202/ftps10/iccftps10sasd2/Movies/English/Mission%20Impossible%20The%20Final%20Reckoning%20(2025)%201080p%20DVDRip.mp4|Referer=https://10.16.100.202//&key=BDStreamHub
+
+
 
 
 
