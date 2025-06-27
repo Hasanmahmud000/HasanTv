@@ -24,7 +24,8 @@ http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/(2025)/Ballerina%20(2025)%20720
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzYyOGEzNjctNmU3MS00ZGJjLWE2ZjYtN2RjNGQ0YTA4MGY5XkEyXkFqcGc@._V1_FMjpg_UX472_.jpg" group-title="South Hindi Dubbed",Ala Vaikunthapurramuloo (2020) [Dual Audio]
 http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/(2020)/Ala%20Vaikunthapurramuloo%20(2020)%201080p%20[Dual%20Audio]/Ala%20Vaikunthapurramuloo%20(2020)%20UNCUT%201080p%20DS4K%20WEBRip%20x264%20ESub%20[Dual%20Audio][Hindi%205.1+Telugu%205.1]%20-DMV.mkv
 
-#EXTINF:-1 tvg-logo="https://pub-565709612e564a3095ea810fa5c2165d.r2.dev/CINEFREAK.TOP%20-%20Squid%20Game%20S03%20WEB-DL%20[Hindi-English]%20NF%201080p%20ESub.mkv" group-title="SQUID GAME S3",Squid Game (2025) - All Episodes Merged - Dual Audio
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg" group-title="SQUID GAME S3",Squid Game (2025) - All Episodes Merged - Dual Audio
 https://pub-565709612e564a3095ea810fa5c2165d.r2.dev/CINEFREAK.TOP%20-%20Squid%20Game%20S03%20WEB-DL%20[Hindi-English]%20NF%201080p%20ESub.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmMwZTk1MDctMjM1My00YTA5LTg0YmYtZWE5Y2Q4N2JhZGQ1XkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg" group-title="Bengali",TaanDob (2025) - 1080p WEB-DL
